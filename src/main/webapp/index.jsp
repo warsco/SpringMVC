@@ -14,5 +14,8 @@
 	<a href="search/external.do">external</a><br>
 	<a href="cookie/make.do">쿠키생성</a><br>
 	<a href="cookie/view.do">쿠키확인</a><br>
+	<a href="search/main.do">게임검색</a><br>
+	<a href="game/users/su/character/1234">템플릿변수</a><br>
+	<a href="account/create.do">계좌생성</a><br>
 </body>
 </html>
